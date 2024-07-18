@@ -1,6 +1,5 @@
 # QT
 QT中一些常用控件用法
-
 ```
 ├── 01-helloWorld  
 ├── 02-PictureToIcon  图片转换图标
@@ -9,3 +8,4 @@ QT中一些常用控件用法
 ├── 04-MutiInterfaces-01  多界面交互
 ├── 05-switch  下拉框
 ```
+[代码介绍](https://blog.csdn.net/shilichangtin/article/details/140526577)
