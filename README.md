@@ -8,7 +8,7 @@ QT中一些常用控件用法
 ├── 04-MutiInterfaces-01  多界面交互
 ├── 05-switch  下拉框
 ├── 06-chart  曲线图
-├── 07-chart  曲线图坐标信息
+├── 07-ChartMouse  曲线图坐标信息
 ├── 08-chart  曲线图增加放大功能
 ```
 [代码介绍](https://blog.csdn.net/shilichangtin/article/details/140526577)
