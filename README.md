@@ -9,6 +9,6 @@ QT中一些常用控件用法
 ├── 05-switch  下拉框
 ├── 06-chart  曲线图
 ├── 07-chart  曲线图坐标信息
-├── 06-chart  曲线图增加放大功能
+├── 08-chart  曲线图增加放大功能
 ```
 [代码介绍](https://blog.csdn.net/shilichangtin/article/details/140526577)
