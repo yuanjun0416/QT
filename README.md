@@ -12,5 +12,6 @@ QT中一些常用控件用法
 ├── 08-ChartMouseZoom  曲线图增加放大功能
 ├── 09-changeBackgroundColor  改变窗口背景颜色
 ├── 10-mysql  qt连接mysql数据库
+├── 11-QChartViewDynamicDisplay  动态实时显示chart
 ```
 [代码介绍](https://blog.csdn.net/shilichangtin/article/details/140526577)
