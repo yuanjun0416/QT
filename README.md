@@ -13,5 +13,6 @@ QT中一些常用控件用法
 ├── 09-changeBackgroundColor  改变窗口背景颜色
 ├── 10-mysql  qt连接mysql数据库
 ├── 11-QChartViewDynamicDisplay  动态实时显示chart
+├── 12-qmlKeyboard  qml自带键盘使用
 ```
 [代码介绍](https://blog.csdn.net/shilichangtin/article/details/140526577)
